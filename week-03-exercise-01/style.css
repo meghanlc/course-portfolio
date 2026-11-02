@@ -1,0 +1,31 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, serif;
+    background-color: #EDE4F5;
+    margin: 0;
+    padding: 50px;
+}
+
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 32px;
+    background-color: #DCE8D5;
+    border: 3px solid #6B4E8C;
+}
+
+.card h1 {
+    color: #56376D;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.card p {
+    color: #344E41;
+    font-size: 18px;
+    margin: 0;
+}
